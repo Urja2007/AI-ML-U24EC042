@@ -1,2 +1,0 @@
-Pythone DONE
-NumPy + Pandas + Matplotlib Basic + Seaborn + scikit-learn  DONE
